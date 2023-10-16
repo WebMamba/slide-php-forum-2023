@@ -1,7 +1,7 @@
 # slide-php-forum-2023
 Les slides de mon talk (Symfony se met au front, a votre tour maintenant). Que j'ai presenter au ForumPHP 2023!
 
-Encore merci pour vous retour!
+Encore merci pour vos retour!
 
 Un grand merci à Frédéric Bouchery qui m'a coacher.
 
